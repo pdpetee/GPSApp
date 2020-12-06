@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppointPad!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_create_appointment">Map</string>
+    <string name="title_activity_view_appointment">Map</string>
+</resources>
